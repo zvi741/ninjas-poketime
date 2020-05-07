@@ -1,10 +1,11 @@
 import React from 'react';
 
-const Contact = () => {
+const Contact = (props) => {
+
   return (
     <div className="container">
       <h4 className="center">Contact</h4>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate animi inventore unde earum hic nam. Nulla mollitia laboriosam assumenda eos expedita temporibus quibusdam! Vero consequatur dolor voluptate hic ducimus dolore!</p>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta amet fugit necessitatibus qui in voluptatem. Illo repudiandae, rem provident doloribus quod at eveniet optio eligendi molestias sapiente repellendus numquam accusamus.</p>
     </div>
   );
 };
